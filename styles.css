@@ -1,0 +1,16 @@
+.border {
+	border: 1px solid #333333;
+    box-sizing: border-box;
+}
+
+.box {
+    padding: 25px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+}
+
+
+
+.position {
+    margin-top: 145px;
+}
